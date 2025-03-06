@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vajju Satish</h1>
 <h3 align="center">A passionate full satack developer from India</h3>
+<p>Hello! I'm a Full-Stack Developer passionate about building robust, scalable, and efficient web applications. With a strong foundation in both front-end and back-end technologies, I strive to create seamless user experiences and well-structured architectures. My expertise spans multiple technologies, including HTML, CSS, JavaScript, Python, SQL, Angular, TypeScript, and AWS.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satish-vajju&label=Profile%20views&color=0e75b6&style=flat" alt="satish-vajju" /> </p>
 
