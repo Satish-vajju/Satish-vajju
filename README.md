@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish-vajju&show_icons=true&locale=en" alt="satish-vajju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satish-vajju&" alt="satish-vajju" /></p>
+
